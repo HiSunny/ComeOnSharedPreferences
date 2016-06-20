@@ -1,0 +1,2 @@
+# ComeOnSharedPreferences
+use SharedPreferences
